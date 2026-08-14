@@ -1,0 +1,1 @@
+# do-develop-a-multi-platform-image-size-checker-etsy-amazon-shopify
